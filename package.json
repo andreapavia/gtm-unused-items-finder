@@ -1,0 +1,29 @@
+{
+  "name": "gtm-unused-items-finder",
+  "version": "1.0.0",
+  "description": "An utility tool to find unused items such as triggers and variables in a Google Tag Manager container.",
+  "source": "src/index.js",
+  "main": "dist/main.js",
+  "module": "dist/module.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "keywords": [
+    "google",
+    "tag",
+    "manager",
+    "gtm",
+    "trigger",
+    "variable",
+    "unused",
+    "find"
+  ],
+  "author": "Andrea Francesco Pavia",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}

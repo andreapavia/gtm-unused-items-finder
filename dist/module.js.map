@@ -1,0 +1,1 @@
+{"mappings":"AAAO,MAAM,4CAAuB,IAAM;IACtC,OAAO,IAAI;AACf","sources":["src/index.js"],"sourcesContent":["export const gtmUnusedItemsFinder = () => {\n    return true;\n}\n"],"names":[],"version":3,"file":"module.js.map"}
